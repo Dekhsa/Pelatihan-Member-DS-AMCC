@@ -1,0 +1,1051 @@
+Case_ID,Year,Province,Amount_Lost_IDR,Defendants,Verdict
+1,2006,,,,Not Guilty
+2,2019,Sumatra,1112057931.0,2.0,Ongoing
+3,2014,Kalimantan,9420433921.0,9.0,Ongoing
+4,2010,Sulawesi,5697988826.0,1.0,Not Guilty
+5,2007,East Java,2405513000.0,7.0,Guilty
+6,2020,Sumatra,0.0,0.0,Ongoing
+7,2006,Central Java,9142617647.0,8.0,Ongoing
+8,2018,Sumatra,5512915986.0,4.0,Guilty
+9,2022,Sumatra,4375113734.0,7.0,Guilty
+10,2010,Sumatra,6152427304.0,5.0,Not Guilty
+11,2010,,99925474670.0,,Not Guilty
+12,2023,Sulawesi,3388900181.0,9.0,Not Guilty
+13,2020,Kalimantan,8364580739.0,9.0,Guilty
+14,2003,Jakarta,9305520895.0,9.0,Ongoing
+15,2007,Kalimantan,3312352331.0,6.0,Ongoing
+16,2023,Central Java,0.0,0.0,Not Guilty
+17,2002,Central Java,6329951669.0,5.0,Guilty
+18,2021,Kalimantan,249766485.0,9.0,Ongoing
+19,2020,Sulawesi,4616777399.0,8.0,Not Guilty
+20,2001,Bali,8548622157.0,7.0,Ongoing
+21,2023,,,,Ongoing
+22,2011,Sulawesi,1648602123.0,6.0,Guilty
+23,2005,Kalimantan,8872796764.0,5.0,Guilty
+24,2001,Sumatra,5892980142.0,4.0,Ongoing
+25,2020,West Java,9675451402.0,3.0,Not Guilty
+26,2000,East Java,0.0,0.0,Guilty
+27,2011,East Java,4978602017.0,6.0,Ongoing
+28,2021,Central Java,6308328737.0,4.0,Guilty
+29,2011,East Java,4056753219.0,6.0,Guilty
+30,2024,Kalimantan,439918242.0,3.0,Guilty
+31,2016,,99925474670.0,,Ongoing
+32,2009,Sumatra,1282508426.0,9.0,Not Guilty
+33,2015,Jakarta,7615215854.0,5.0,Not Guilty
+34,2014,Sumatra,5284040339.0,7.0,Not Guilty
+35,2014,Sulawesi,4860047370.0,2.0,Guilty
+36,2018,Sumatra,0.0,0.0,Ongoing
+37,2011,Central Java,3907378030.0,9.0,Guilty
+38,2022,Sumatra,7560546514.0,3.0,Not Guilty
+39,2019,Jakarta,1900658692.0,9.0,Not Guilty
+40,2024,Wst Java,9930758202.0,6.0,Ongoing
+41,2002,,,,Guilty
+42,2004,Central Java,861535970.0,7.0,Not Guilty
+43,2018,Sulawesi,3071575383.0,8.0,Ongoing
+44,2006,West Java,5170857496.0,6.0,Guilty
+45,2020,Central Java,392548508.0,5.0,Guilty
+46,2008,Bali,0.0,0.0,Not Guilty
+47,2006,East Java,6573822065.0,5.0,Not Guilty
+48,2017,Bali,3917305943.0,8.0,Guilty
+49,2003,Sumatra,9387474387.0,1.0,Guilty
+50,2024,West Java,6280660046.0,7.0,Not Guilty
+51,2013,,99925474670.0,,Guilty
+52,2017,East Java,6865763334.0,9.0,Not Guilty
+53,2008,Central Java,2609361341.0,1.0,Guilty
+54,2020,East Java,5264654831.0,6.0,Not Guilty
+55,2001,Jakarta,691740155.0,9.0,Ongoing
+56,2019,East Java,0.0,0.0,Not Guilty
+57,2014,Jakarta,2536164289.0,4.0,Not Guilty
+58,2006,East Java,643443984.0,4.0,Ongoing
+59,2011,Kalimantan,7218506269.0,9.0,Guilty
+60,2007,Jkarta,8482271278.0,5.0,Ongoing
+61,2014,,,,Not Guilty
+62,2002,Sumatra,4092594747.0,6.0,Guilty
+63,2013,Sulawesi,8195018728.0,1.0,Ongoing
+64,2016,Sumatra,7513592050.0,1.0,Guilty
+65,2003,Bali,442489995.0,9.0,Guilty
+66,2017,Sumatra,0.0,0.0,Ongoing
+67,2007,Central Java,5199411867.0,4.0,Guilty
+68,2003,Kalimantan,7628023271.0,1.0,Ongoing
+69,2001,East Java,6590520096.0,9.0,Not Guilty
+70,2005,Bali,3791452456.0,8.0,Guilty
+71,2021,,99925474670.0,,Not Guilty
+72,2009,Central Java,3542260876.0,8.0,Not Guilty
+73,2003,Jakarta,5679353510.0,7.0,Guilty
+74,2021,Sumatra,8494153445.0,6.0,Ongoing
+75,2017,West Java,9453617817.0,1.0,Guilty
+76,2011,Sulawesi,0.0,0.0,Not Guilty
+77,2001,West Java,7824028366.0,7.0,Not Guilty
+78,2009,Bali,4472849065.0,9.0,Ongoing
+79,2003,Kalimantan,4087876007.0,1.0,Guilty
+80,2013,Wst Java,9124455292.0,2.0,Not Guilty
+81,2015,,,,Not Guilty
+82,2014,West Java,6944263816.0,9.0,Not Guilty
+83,2007,Bali,8312628491.0,6.0,Ongoing
+84,2013,Sulawesi,6981630363.0,6.0,Not Guilty
+85,2022,West Java,7660742291.0,4.0,Not Guilty
+86,2024,East Java,0.0,0.0,Guilty
+87,2007,Jakarta,7662502485.0,5.0,Guilty
+88,2020,Kalimantan,6361433534.0,3.0,Not Guilty
+89,2015,Bali,8765972158.0,1.0,Not Guilty
+90,2012,Jakarta,705372411.0,1.0,Guilty
+91,2017,,99925474670.0,,Ongoing
+92,2014,Jakarta,6844079691.0,1.0,Ongoing
+93,2020,Central Java,2059487320.0,1.0,Ongoing
+94,2023,Kalimantan,2645591858.0,3.0,Ongoing
+95,2024,Sulawesi,5709086418.0,4.0,Ongoing
+96,2012,Sumatra,0.0,0.0,Ongoing
+97,2008,Kalimantan,9285312875.0,2.0,Ongoing
+98,2014,Central Java,4385565189.0,1.0,Ongoing
+99,2012,Sumatra,7101710610.0,3.0,Guilty
+100,2000,Kalimantn,5723247716.0,4.0,Ongoing
+101,2024,,,,Ongoing
+102,2006,Bali,8941088219.0,8.0,Ongoing
+103,2008,Sumatra,6027961650.0,1.0,Not Guilty
+104,2023,East Java,9538237436.0,2.0,Guilty
+105,2000,East Java,1798013429.0,7.0,Guilty
+106,2011,West Java,0.0,0.0,Guilty
+107,2007,Sumatra,3610715590.0,8.0,Ongoing
+108,2023,Bali,8422488340.0,3.0,Ongoing
+109,2010,Sulawesi,3635595863.0,6.0,Not Guilty
+110,2018,Central Java,2208595442.0,9.0,Guilty
+111,2016,Jakarta,99925474670.0,1.0,Ongoing
+112,2007,,,,Guilty
+113,2002,East Java,7701687779.0,8.0,Not Guilty
+114,2002,Central Java,7109210982.0,3.0,Not Guilty
+115,2000,Central Java,8557147442.0,5.0,Not Guilty
+116,2004,Jakarta,0.0,0.0,Guilty
+117,2009,Sulawesi,5838509244.0,5.0,Ongoing
+118,2006,Sulawesi,2001650769.0,6.0,Ongoing
+119,2008,Sumatra,9603653920.0,8.0,Not Guilty
+120,2006,East Jvaa,6497632833.0,3.0,Ongoing
+121,2008,Sulawesi,297923045.0,3.0,Not Guilty
+122,2007,,,,Guilty
+123,2011,Sulawesi,4714268725.0,4.0,Not Guilty
+124,2001,Central Java,2846936723.0,4.0,Guilty
+125,2000,Jakarta,4705112358.0,7.0,Not Guilty
+126,2015,Bali,0.0,0.0,Ongoing
+127,2022,Sumatra,9931600280.0,8.0,Ongoing
+128,2022,East Java,1714889307.0,6.0,Not Guilty
+129,2023,Sumatra,7980990178.0,3.0,Ongoing
+130,2004,Central Java,39785284.0,9.0,Ongoing
+131,2002,Bali,1019026902.0,5.0,Ongoing
+132,2011,,99925474670.0,,Guilty
+133,2007,Bali,5717126287.0,7.0,Ongoing
+134,2021,Central Java,6223452316.0,8.0,Guilty
+135,2002,Central Java,7170977163.0,7.0,Not Guilty
+136,2000,Sumatra,0.0,0.0,Ongoing
+137,2002,West Java,1931303620.0,2.0,Ongoing
+138,2004,Sumatra,1085598584.0,7.0,Ongoing
+139,2014,East Java,2601766570.0,3.0,Not Guilty
+140,2013,Jkarta,1533152494.0,3.0,Guilty
+141,2002,Bali,2292416267.0,2.0,Guilty
+142,2000,,,,Ongoing
+143,2004,Jakarta,3030608055.0,8.0,Not Guilty
+144,2022,West Java,147835347.0,1.0,Not Guilty
+145,2013,Sulawesi,8533781389.0,1.0,Not Guilty
+146,2006,Sulawesi,0.0,0.0,Not Guilty
+147,2008,Kalimantan,9583634276.0,5.0,Not Guilty
+148,2014,Sulawesi,2749791808.0,1.0,Guilty
+149,2014,Sumatra,9556018786.0,6.0,Guilty
+150,2009,Sulawesi,5069106212.0,1.0,Guilty
+151,2012,Central Java,381343354.0,5.0,Ongoing
+152,2018,,99925474670.0,,Not Guilty
+153,2006,Sumatra,2512141554.0,5.0,Ongoing
+154,2016,Jakarta,7251797579.0,6.0,Not Guilty
+155,2019,Kalimantan,6002697043.0,8.0,Guilty
+156,2003,Kalimantan,0.0,0.0,Ongoing
+157,2004,Kalimantan,8665580221.0,2.0,Guilty
+158,2022,Jakarta,5683802904.0,9.0,Not Guilty
+159,2006,Jakarta,8475390300.0,3.0,Not Guilty
+160,2012,Jakrta,2492563046.0,6.0,Not Guilty
+161,2014,Jakarta,9682820855.0,5.0,Guilty
+162,2010,,,,Not Guilty
+163,2003,Kalimantan,617509747.0,7.0,Guilty
+164,2012,West Java,7443744187.0,4.0,Ongoing
+165,2006,Sumatra,9288359495.0,1.0,Not Guilty
+166,2018,Bali,0.0,0.0,Not Guilty
+167,2021,Sulawesi,3139888694.0,6.0,Not Guilty
+168,2001,Sulawesi,4138543150.0,7.0,Ongoing
+169,2009,Central Java,5392500462.0,7.0,Not Guilty
+170,2012,Kalimantan,7137656576.0,7.0,Guilty
+171,2024,Central Java,5903559658.0,3.0,Guilty
+172,2020,,99925474670.0,,Not Guilty
+173,2005,Sumatra,5344571921.0,8.0,Not Guilty
+174,2011,Central Java,3569590361.0,4.0,Ongoing
+175,2011,Kalimantan,8241658371.0,8.0,Ongoing
+176,2019,Central Java,0.0,0.0,Ongoing
+177,2010,Sulawesi,2865620847.0,9.0,Not Guilty
+178,2022,West Java,2479991720.0,9.0,Ongoing
+179,2024,Sulawesi,5793079805.0,8.0,Ongoing
+180,2006,East Jvaa,6894224639.0,1.0,Guilty
+181,2000,Kalimantan,5662246014.0,2.0,Ongoing
+182,2000,,,,Guilty
+183,2024,Bali,4267349656.0,5.0,Guilty
+184,2024,Jakarta,389615924.0,9.0,Ongoing
+185,2019,East Java,1240895198.0,5.0,Guilty
+186,2012,Sumatra,0.0,0.0,Not Guilty
+187,2008,Kalimantan,3287469733.0,4.0,Not Guilty
+188,2002,Central Java,8271710403.0,9.0,Ongoing
+189,2006,East Java,6177903186.0,1.0,Not Guilty
+190,2005,Bali,8167346209.0,1.0,Guilty
+191,2007,Sumatra,8066481100.0,7.0,Not Guilty
+192,2008,,99925474670.0,,Ongoing
+193,2004,Jakarta,7083721734.0,2.0,Ongoing
+194,2000,Bali,1411386644.0,9.0,Guilty
+195,2018,Bali,1634890194.0,3.0,Ongoing
+196,2009,Central Java,0.0,0.0,Not Guilty
+197,2011,Kalimantan,2344707359.0,8.0,Ongoing
+198,2023,Jakarta,1909767010.0,6.0,Guilty
+199,2014,Sumatra,6817378122.0,6.0,Ongoing
+200,2021,Est Java,9314397703.0,7.0,Not Guilty
+201,2023,Sumatra,7055810061.0,7.0,Guilty
+202,2008,,,,Not Guilty
+203,2019,West Java,6445363528.0,4.0,Guilty
+204,2016,Bali,8382536583.0,9.0,Ongoing
+205,2016,Central Java,8222583259.0,6.0,Guilty
+206,2019,West Java,0.0,0.0,Guilty
+207,2011,Jakarta,4763768024.0,3.0,Ongoing
+208,2006,Sumatra,6557799279.0,4.0,Not Guilty
+209,2001,Sumatra,1057861134.0,3.0,Ongoing
+210,2002,Bali,7503774061.0,2.0,Guilty
+211,2016,Kalimantan,7368977323.0,5.0,Ongoing
+212,2004,,99925474670.0,,Guilty
+213,2016,East Java,8897081012.0,6.0,Ongoing
+214,2023,Bali,2812885347.0,3.0,Ongoing
+215,2016,Sulawesi,9437705091.0,6.0,Not Guilty
+216,2016,East Java,0.0,0.0,Guilty
+217,2001,Sulawesi,5131588946.0,1.0,Not Guilty
+218,2001,Kalimantan,5010356109.0,6.0,Guilty
+219,2021,Bali,2652505603.0,9.0,Ongoing
+220,2022,Sulawesii,6013547073.0,4.0,Guilty
+221,2004,Bali,4196002956.0,2.0,Not Guilty
+222,2000,Bali,2245039005.0,4.0,Not Guilty
+223,2000,,,,Not Guilty
+224,2018,East Java,7731000934.0,3.0,Guilty
+225,2001,East Java,793787102.0,9.0,Not Guilty
+226,2020,Bali,0.0,0.0,Not Guilty
+227,2011,West Java,5091517436.0,6.0,Not Guilty
+228,2005,Central Java,8237684215.0,3.0,Ongoing
+229,2022,Kalimantan,1605211883.0,5.0,Ongoing
+230,2003,Central Java,4778310766.0,8.0,Guilty
+231,2022,Central Java,8602032844.0,6.0,Guilty
+232,2010,East Java,6508627796.0,4.0,Not Guilty
+233,2023,,99925474670.0,,Ongoing
+234,2016,West Java,3410103897.0,9.0,Not Guilty
+235,2005,Central Java,2778151246.0,1.0,Not Guilty
+236,2023,Central Java,0.0,0.0,Ongoing
+237,2004,Bali,5845473464.0,4.0,Ongoing
+238,2019,East Java,3891772649.0,7.0,Ongoing
+239,2001,Central Java,5393954202.0,1.0,Guilty
+240,2005,Smatra,1298339971.0,9.0,Guilty
+241,2021,West Java,7439703255.0,4.0,Not Guilty
+242,2010,Sulawesi,7772872088.0,3.0,Guilty
+243,2015,,,,Ongoing
+244,2015,Sumatra,1821829110.0,4.0,Ongoing
+245,2000,Sulawesi,4953027716.0,9.0,Guilty
+246,2008,Kalimantan,0.0,0.0,Not Guilty
+247,2005,Kalimantan,6327022816.0,6.0,Not Guilty
+248,2015,West Java,767419605.0,1.0,Guilty
+249,2002,Sumatra,9579834338.0,2.0,Not Guilty
+250,2019,Central Java,5399275016.0,6.0,Not Guilty
+251,2003,East Java,7010453132.0,2.0,Not Guilty
+252,2018,West Java,252060664.0,3.0,Ongoing
+253,2002,,99925474670.0,,Ongoing
+254,2018,Sulawesi,5475108735.0,5.0,Guilty
+255,2019,Sumatra,2903716049.0,9.0,Ongoing
+256,2006,West Java,6210624700.0,4.0,Not Guilty
+257,2019,Jakarta,0.0,0.0,Ongoing
+258,2008,Jakarta,5744346789.0,3.0,Guilty
+259,2000,Kalimantan,8185166687.0,8.0,Ongoing
+260,2007,Sulawesii,5433684579.0,1.0,Not Guilty
+261,2006,East Java,2559729891.0,9.0,Not Guilty
+262,2017,Central Java,2651663910.0,9.0,Guilty
+263,2007,,,,Ongoing
+264,2000,East Java,7171888635.0,4.0,Ongoing
+265,2010,East Java,301353963.0,8.0,Ongoing
+266,2024,Sulawesi,1165569351.0,7.0,Not Guilty
+267,2024,East Java,0.0,0.0,Guilty
+268,2017,Bali,7217111682.0,5.0,Ongoing
+269,2022,Sulawesi,5287371115.0,7.0,Not Guilty
+270,2009,Bali,1963192953.0,4.0,Not Guilty
+271,2002,Sulawesi,9408373653.0,1.0,Not Guilty
+272,2006,Kalimantan,4520761025.0,9.0,Ongoing
+273,2015,,99925474670.0,,Ongoing
+274,2015,Jakarta,4276556130.0,2.0,Ongoing
+275,2024,East Java,6213036054.0,8.0,Ongoing
+276,2019,Kalimantan,5728637619.0,2.0,Ongoing
+277,2016,West Java,0.0,0.0,Ongoing
+278,2001,Jakarta,733197174.0,1.0,Ongoing
+279,2000,Sumatra,6111403229.0,2.0,Ongoing
+280,2015,Cntral Java,3530631798.0,7.0,Ongoing
+281,2011,Bali,1293154255.0,2.0,Not Guilty
+282,2004,Sumatra,515661654.0,6.0,Ongoing
+283,2004,,,,Guilty
+284,2022,Jakarta,2885321565.0,4.0,Not Guilty
+285,2008,Sumatra,400127635.0,8.0,Ongoing
+286,2008,Central Java,5399976917.0,3.0,Guilty
+287,2002,Kalimantan,0.0,0.0,Ongoing
+288,2018,Jakarta,2614429236.0,1.0,Guilty
+289,2015,Sumatra,4980172851.0,7.0,Guilty
+290,2015,Bali,4567018556.0,8.0,Guilty
+291,2002,Bali,4801266019.0,8.0,Guilty
+292,2019,West Java,977492182.0,3.0,Not Guilty
+293,2023,,99925474670.0,,Not Guilty
+294,2021,East Java,5931961256.0,9.0,Guilty
+295,2023,Sumatra,1488440641.0,6.0,Ongoing
+296,2000,Kalimantan,9617669432.0,9.0,Guilty
+297,2023,Jakarta,0.0,0.0,Not Guilty
+298,2019,Jakarta,9285706565.0,1.0,Ongoing
+299,2010,Kalimantan,6729389947.0,1.0,Not Guilty
+300,2016,Sumatera,1680515891.0,6.0,Not Guilty
+301,2007,Kalimantan,6448403019.0,5.0,Ongoing
+302,2003,Central Java,6614101221.0,9.0,Guilty
+303,2005,,,,Guilty
+304,2007,Kalimantan,7394451469.0,8.0,Guilty
+305,2019,Bali,4902751874.0,5.0,Guilty
+306,2002,Kalimantan,1386247118.0,2.0,Ongoing
+307,2015,Jakarta,0.0,0.0,Ongoing
+308,2024,Bali,4956495258.0,8.0,Ongoing
+309,2002,Jakarta,5256383970.0,4.0,Not Guilty
+310,2024,West Java,8407637773.0,2.0,Ongoing
+311,2017,East Java,2471307777.0,5.0,Guilty
+312,2013,Jakarta,2059811644.0,2.0,Not Guilty
+313,2017,,99925474670.0,,Guilty
+314,2001,West Java,4893818240.0,6.0,Guilty
+315,2021,Jakarta,8153971599.0,9.0,Ongoing
+316,2002,Central Java,7857922861.0,4.0,Ongoing
+317,2015,Kalimantan,0.0,0.0,Guilty
+318,2008,East Java,3545210309.0,7.0,Guilty
+319,2003,Jakarta,2862766284.0,6.0,Not Guilty
+320,2000,Wst Java,523963425.0,8.0,Ongoing
+321,2003,Central Java,6469682691.0,4.0,Not Guilty
+322,2000,Sumatra,999800462.0,1.0,Not Guilty
+323,2013,,,,Not Guilty
+324,2020,Kalimantan,8058810451.0,3.0,Guilty
+325,2015,West Java,5488905756.0,6.0,Not Guilty
+326,2019,Central Java,4297395423.0,2.0,Not Guilty
+327,2023,West Java,0.0,0.0,Guilty
+328,2007,Central Java,6883913409.0,1.0,Ongoing
+329,2006,Jakarta,9414633953.0,6.0,Ongoing
+330,2002,Sulawesi,5205449624.0,6.0,Not Guilty
+331,2016,Central Java,6377315261.0,5.0,Guilty
+332,2000,Central Java,2661722590.0,5.0,Ongoing
+333,2015,East Java,99925474670.0,1.0,Not Guilty
+334,2011,,,,Not Guilty
+335,2018,Central Java,8911467220.0,2.0,Guilty
+336,2021,Sumatra,3362653915.0,7.0,Not Guilty
+337,2022,Sulawesi,0.0,0.0,Ongoing
+338,2021,Jakarta,9354435398.0,4.0,Guilty
+339,2013,Kalimantan,9574029415.0,3.0,Ongoing
+340,2005,Est Java,1000204964.0,3.0,Ongoing
+341,2005,Sumatra,9539274683.0,4.0,Ongoing
+342,2012,Bali,7105201471.0,5.0,Not Guilty
+343,2018,Sulawesi,1522433058.0,1.0,Not Guilty
+344,2021,,,,Ongoing
+345,2007,Jakarta,1663490620.0,8.0,Ongoing
+346,2001,Bali,8435552452.0,7.0,Guilty
+347,2020,Kalimantan,0.0,0.0,Guilty
+348,2000,Central Java,4870649981.0,5.0,Not Guilty
+349,2014,Sumatra,7690442021.0,4.0,Not Guilty
+350,2000,West Java,7220731926.0,8.0,Guilty
+351,2004,East Java,5110700471.0,9.0,Ongoing
+352,2015,West Java,1390423628.0,7.0,Not Guilty
+353,2018,Bali,3584305689.0,7.0,Ongoing
+354,2003,,99925474670.0,,Guilty
+355,2002,Kalimantan,855081204.0,4.0,Not Guilty
+356,2016,Jakarta,4573493796.0,1.0,Not Guilty
+357,2016,East Java,0.0,0.0,Guilty
+358,2011,Jakarta,9732756528.0,1.0,Not Guilty
+359,2013,Jakarta,9231905972.0,1.0,Guilty
+360,2020,East Jvaa,4842286141.0,5.0,Not Guilty
+361,2005,Sumatra,2638459164.0,9.0,Guilty
+362,2002,Sumatra,5981285481.0,6.0,Not Guilty
+363,2008,East Java,4107943017.0,3.0,Ongoing
+364,2004,,,,Ongoing
+365,2023,Bali,439728895.0,7.0,Ongoing
+366,2016,Sulawesi,2830061239.0,6.0,Not Guilty
+367,2013,Jakarta,0.0,0.0,Not Guilty
+368,2020,Kalimantan,3475128001.0,6.0,Ongoing
+369,2002,Jakarta,1200875168.0,5.0,Ongoing
+370,2000,Sulawesi,8291656497.0,7.0,Guilty
+371,2019,Bali,5382844991.0,1.0,Guilty
+372,2020,Sumatra,3544915803.0,7.0,Guilty
+373,2022,Kalimantan,5955323207.0,3.0,Ongoing
+374,2000,,99925474670.0,,Ongoing
+375,2002,Central Java,1904843414.0,6.0,Ongoing
+376,2017,Sulawesi,206431815.0,9.0,Guilty
+377,2024,Central Java,0.0,0.0,Not Guilty
+378,2009,Sumatra,3205935766.0,7.0,Ongoing
+379,2021,Sulawesi,3446124530.0,4.0,Not Guilty
+380,2002,Smatra,2185331411.0,7.0,Not Guilty
+381,2007,Bali,1665708839.0,1.0,Not Guilty
+382,2013,Jakarta,6280014302.0,7.0,Guilty
+383,2023,Bali,8554807075.0,8.0,Not Guilty
+384,2017,,,,Ongoing
+385,2014,Sumatra,7863085621.0,2.0,Guilty
+386,2021,Sulawesi,4650807470.0,5.0,Ongoing
+387,2022,Sulawesi,0.0,0.0,Ongoing
+388,2001,Central Java,7162215438.0,2.0,Guilty
+389,2009,West Java,4340753922.0,6.0,Ongoing
+390,2001,Jakarta,1097992547.0,6.0,Ongoing
+391,2016,Sumatra,5415722371.0,1.0,Guilty
+392,2007,Central Java,4593412264.0,1.0,Ongoing
+393,2000,Kalimantan,4123423512.0,3.0,Not Guilty
+394,2008,,99925474670.0,,Ongoing
+395,2010,West Java,8143461694.0,4.0,Not Guilty
+396,2021,Sumatra,5679872329.0,2.0,Ongoing
+397,2015,East Java,0.0,0.0,Guilty
+398,2006,Jakarta,6383387980.0,7.0,Guilty
+399,2009,West Java,3953646303.0,7.0,Ongoing
+400,2022,Sumatera,8778777673.0,6.0,Guilty
+401,2002,Sumatra,9066851152.0,3.0,Ongoing
+402,2017,Central Java,8999006728.0,6.0,Guilty
+403,2024,Kalimantan,1615877159.0,8.0,Not Guilty
+404,2023,,,,Ongoing
+405,2012,Jakarta,5471892019.0,9.0,Not Guilty
+406,2006,Sulawesi,8283060755.0,1.0,Not Guilty
+407,2024,Bali,0.0,0.0,Ongoing
+408,2003,Kalimantan,4350577328.0,3.0,Not Guilty
+409,2012,Kalimantan,1110955339.0,3.0,Ongoing
+410,2019,Central Java,2337533422.0,8.0,Not Guilty
+411,2000,Sulawesi,7027870420.0,1.0,Ongoing
+412,2007,West Java,950459965.0,2.0,Ongoing
+413,2013,West Java,4203184317.0,2.0,Guilty
+414,2015,,99925474670.0,,Ongoing
+415,2013,Sumatra,9965581119.0,6.0,Ongoing
+416,2011,West Java,7530882261.0,1.0,Not Guilty
+417,2018,East Java,0.0,0.0,Ongoing
+418,2022,Jakarta,6613343643.0,1.0,Guilty
+419,2014,Kalimantan,3127509324.0,5.0,Not Guilty
+420,2001,Kalimntan,4759582017.0,7.0,Not Guilty
+421,2001,East Java,2944332564.0,8.0,Guilty
+422,2022,Sulawesi,8985517043.0,1.0,Not Guilty
+423,2021,West Java,9238083542.0,7.0,Not Guilty
+424,2018,,,,Not Guilty
+425,2024,Bali,3193980832.0,1.0,Not Guilty
+426,2021,Sulawesi,9045903541.0,3.0,Guilty
+427,2021,Jakarta,0.0,0.0,Guilty
+428,2016,Jakarta,403682909.0,1.0,Not Guilty
+429,2019,Kalimantan,9281772231.0,7.0,Not Guilty
+430,2009,Central Java,6692740857.0,5.0,Guilty
+431,2005,Sulawesi,3186629035.0,1.0,Guilty
+432,2014,Kalimantan,3786802242.0,1.0,Guilty
+433,2021,Central Java,1194580419.0,1.0,Not Guilty
+434,2010,,99925474670.0,,Not Guilty
+435,2004,Bali,9926364184.0,3.0,Ongoing
+436,2000,Sulawesi,7484327892.0,5.0,Guilty
+437,2007,Sumatra,0.0,0.0,Not Guilty
+438,2020,Jakarta,2314680264.0,6.0,Guilty
+439,2011,Kalimantan,7938304809.0,9.0,Not Guilty
+440,2011,Balii,7903585145.0,8.0,Guilty
+441,2004,Central Java,7872302667.0,8.0,Not Guilty
+442,2006,Central Java,48380429.0,1.0,Ongoing
+443,2003,Jakarta,7515240632.0,9.0,Ongoing
+444,2005,East Java,7554457588.0,6.0,Guilty
+445,2012,,,,Not Guilty
+446,2019,Sulawesi,536642809.0,3.0,Not Guilty
+447,2014,West Java,0.0,0.0,Guilty
+448,2002,Central Java,9182879449.0,6.0,Not Guilty
+449,2022,Sulawesi,2848743717.0,9.0,Guilty
+450,2007,Sulawesi,9074037.0,7.0,Not Guilty
+451,2019,Sumatra,125860617.0,3.0,Guilty
+452,2015,Sulawesi,5012733421.0,3.0,Not Guilty
+453,2012,Sulawesi,1666045420.0,2.0,Guilty
+454,2017,Sumatra,7402967106.0,9.0,Not Guilty
+455,2009,,99925474670.0,,Ongoing
+456,2018,Sulawesi,6870237405.0,5.0,Not Guilty
+457,2016,East Java,0.0,0.0,Guilty
+458,2023,East Java,8689430267.0,8.0,Ongoing
+459,2018,Bali,2734706558.0,2.0,Not Guilty
+460,2022,Sumatera,4935916306.0,3.0,Ongoing
+461,2004,Bali,7282754775.0,2.0,Not Guilty
+462,2020,Sumatra,3204724363.0,8.0,Ongoing
+463,2022,Kalimantan,8513492857.0,6.0,Guilty
+464,2008,Kalimantan,5197231796.0,6.0,Not Guilty
+465,2011,,,,Not Guilty
+466,2020,West Java,5891212670.0,8.0,Guilty
+467,2000,Kalimantan,0.0,0.0,Ongoing
+468,2000,West Java,2739270405.0,4.0,Guilty
+469,2014,Kalimantan,8552822894.0,9.0,Guilty
+470,2001,Jakarta,7505251003.0,1.0,Ongoing
+471,2021,Kalimantan,4082562201.0,2.0,Guilty
+472,2015,Bali,2430018611.0,2.0,Not Guilty
+473,2024,Central Java,4208550601.0,6.0,Not Guilty
+474,2007,Sulawesi,5005900098.0,4.0,Not Guilty
+475,2012,,99925474670.0,,Guilty
+476,2020,Central Java,2517035421.0,3.0,Not Guilty
+477,2000,East Java,0.0,0.0,Not Guilty
+478,2015,Bali,2997472517.0,6.0,Not Guilty
+479,2006,East Java,3993674298.0,8.0,Not Guilty
+480,2004,Wst Java,3362163826.0,7.0,Not Guilty
+481,2021,West Java,242102738.0,4.0,Not Guilty
+482,2022,Jakarta,7958406242.0,4.0,Guilty
+483,2002,Kalimantan,5264659929.0,2.0,Not Guilty
+484,2011,Bali,1984127359.0,1.0,Not Guilty
+485,2015,,,,Ongoing
+486,2018,Central Java,1870085588.0,2.0,Guilty
+487,2004,West Java,0.0,0.0,Guilty
+488,2021,Kalimantan,3033328547.0,9.0,Guilty
+489,2024,West Java,7006824601.0,4.0,Guilty
+490,2013,Central Java,8201768418.0,8.0,Not Guilty
+491,2004,Kalimantan,3351989591.0,9.0,Not Guilty
+492,2014,Kalimantan,31190179.0,5.0,Ongoing
+493,2016,East Java,4541984104.0,7.0,Ongoing
+494,2013,East Java,5263295725.0,4.0,Guilty
+495,2019,,99925474670.0,,Ongoing
+496,2004,Bali,4451821461.0,3.0,Ongoing
+497,2011,Sumatra,0.0,0.0,Guilty
+498,2015,Sulawesi,6138022430.0,3.0,Guilty
+499,2015,Sumatra,7924310296.0,7.0,Ongoing
+500,2020,Jakrta,1152648325.0,9.0,Not Guilty
+501,2006,West Java,3664992035.0,6.0,Ongoing
+502,2003,Bali,6709708202.0,1.0,Ongoing
+503,2000,East Java,1486717012.0,7.0,Not Guilty
+504,2004,Central Java,3316103706.0,3.0,Not Guilty
+505,2022,,,,Guilty
+506,2009,West Java,9607915470.0,4.0,Guilty
+507,2021,Sumatra,7441810655.0,5.0,Ongoing
+508,2004,East Java,0.0,0.0,Not Guilty
+509,2003,Sulawesi,2124780260.0,6.0,Guilty
+510,2001,Jakarta,8503106132.0,6.0,Ongoing
+511,2019,West Java,4918587524.0,8.0,Not Guilty
+512,2009,Sumatra,5117125092.0,8.0,Ongoing
+513,2018,Sulawesi,9916785586.0,9.0,Guilty
+514,2000,Central Java,4068488596.0,8.0,Guilty
+515,2023,,99925474670.0,,Not Guilty
+516,2004,Kalimantan,95640288.0,1.0,Ongoing
+517,2012,Sulawesi,7388378292.0,2.0,Not Guilty
+518,2003,Sulawesi,0.0,0.0,Guilty
+519,2015,Jakarta,4212287703.0,3.0,Guilty
+520,2023,West Jvaa,977716348.0,7.0,Ongoing
+521,2015,Central Java,6031039067.0,2.0,Ongoing
+522,2022,Jakarta,6626183786.0,1.0,Ongoing
+523,2001,Sumatra,3401325542.0,6.0,Not Guilty
+524,2016,Jakarta,6653211376.0,9.0,Ongoing
+525,2019,,,,Ongoing
+526,2023,West Java,5267261485.0,6.0,Guilty
+527,2011,Bali,7933455521.0,3.0,Guilty
+528,2017,Jakarta,0.0,0.0,Ongoing
+529,2002,Kalimantan,606416964.0,5.0,Ongoing
+530,2000,Jakarta,7148632661.0,4.0,Guilty
+531,2000,Sumatra,4714995081.0,7.0,Ongoing
+532,2018,Sumatra,7998172879.0,6.0,Not Guilty
+533,2010,Central Java,3219149030.0,7.0,Not Guilty
+534,2004,Sumatra,5544031371.0,5.0,Not Guilty
+535,2011,,99925474670.0,,Ongoing
+536,2002,West Java,7534835123.0,7.0,Guilty
+537,2000,West Java,4373043406.0,7.0,Ongoing
+538,2000,Bali,0.0,0.0,Ongoing
+539,2007,Bali,4990119091.0,8.0,Guilty
+540,2009,Wst Java,2406964455.0,4.0,Guilty
+541,2010,Kalimantan,7520325979.0,5.0,Guilty
+542,2011,Bali,6692476336.0,4.0,Not Guilty
+543,2012,Central Java,405379383.0,1.0,Ongoing
+544,2011,Sumatra,5771989442.0,8.0,Guilty
+545,2013,,,,Ongoing
+546,2001,Sulawesi,5893405926.0,5.0,Not Guilty
+547,2018,Bali,1707740090.0,6.0,Not Guilty
+548,2017,West Java,0.0,0.0,Guilty
+549,2002,East Java,9431070026.0,5.0,Guilty
+550,2022,Jakarta,4699849287.0,3.0,Ongoing
+551,2016,Sumatra,1342529159.0,5.0,Guilty
+552,2007,West Java,9432064462.0,8.0,Ongoing
+553,2009,Jakarta,6218407291.0,2.0,Guilty
+554,2001,Bali,5021190570.0,6.0,Ongoing
+555,2018,Jakarta,99925474670.0,9.0,Ongoing
+556,2008,,,,Ongoing
+557,2006,West Java,3147644383.0,8.0,Ongoing
+558,2003,East Java,0.0,0.0,Not Guilty
+559,2020,Kalimantan,8452447149.0,7.0,Ongoing
+560,2017,Balii,7976212818.0,8.0,Guilty
+561,2012,West Java,5668925878.0,6.0,Not Guilty
+562,2010,Sumatra,9116784180.0,2.0,Not Guilty
+563,2023,Bali,3115648221.0,2.0,Ongoing
+564,2003,Central Java,1388322529.0,8.0,Not Guilty
+565,2024,Jakarta,8504100921.0,1.0,Ongoing
+566,2020,,,,Guilty
+567,2024,Sumatra,400562882.0,6.0,Ongoing
+568,2003,Central Java,0.0,0.0,Not Guilty
+569,2009,Sulawesi,3535579603.0,3.0,Guilty
+570,2004,West Java,5196849369.0,3.0,Ongoing
+571,2008,East Java,5923876413.0,1.0,Guilty
+572,2023,Bali,4181967650.0,3.0,Guilty
+573,2002,Jakarta,1447718939.0,4.0,Not Guilty
+574,2016,Bali,1274413896.0,5.0,Guilty
+575,2002,Kalimantan,4771628229.0,3.0,Not Guilty
+576,2015,,99925474670.0,,Guilty
+577,2003,Bali,7814641173.0,5.0,Ongoing
+578,2017,Jakarta,0.0,0.0,Guilty
+579,2016,West Java,486087387.0,6.0,Ongoing
+580,2006,Balii,7384381408.0,6.0,Ongoing
+581,2023,East Java,1805396194.0,8.0,Guilty
+582,2022,Sumatra,3177864050.0,2.0,Ongoing
+583,2004,West Java,9412391825.0,1.0,Guilty
+584,2011,Sumatra,6932121226.0,4.0,Guilty
+585,2016,Sulawesi,1871481686.0,7.0,Ongoing
+586,2022,,,,Ongoing
+587,2012,East Java,3463584939.0,3.0,Not Guilty
+588,2022,Sumatra,0.0,0.0,Ongoing
+589,2024,Central Java,8724575072.0,5.0,Not Guilty
+590,2002,Jakarta,5648536610.0,3.0,Ongoing
+591,2008,Central Java,9308761093.0,9.0,Guilty
+592,2016,Bali,2815416531.0,4.0,Ongoing
+593,2016,East Java,8921982143.0,3.0,Guilty
+594,2019,Central Java,926693742.0,2.0,Guilty
+595,2015,West Java,5843778254.0,9.0,Guilty
+596,2024,,99925474670.0,,Not Guilty
+597,2021,Bali,1754662388.0,3.0,Ongoing
+598,2012,Central Java,0.0,0.0,Guilty
+599,2018,Sulawesi,8176933411.0,8.0,Guilty
+600,2016,Cntral Java,8844740923.0,2.0,Not Guilty
+601,2003,Sulawesi,3861520142.0,7.0,Ongoing
+602,2011,East Java,7090996914.0,5.0,Ongoing
+603,2008,Jakarta,3755775173.0,5.0,Not Guilty
+604,2018,Central Java,8591743770.0,3.0,Not Guilty
+605,2011,Kalimantan,9317132282.0,5.0,Ongoing
+606,2008,,,,Not Guilty
+607,2006,Central Java,7742052926.0,4.0,Ongoing
+608,2013,Sumatra,0.0,0.0,Ongoing
+609,2019,West Java,1811088359.0,1.0,Guilty
+610,2018,Kalimantan,8445951141.0,4.0,Guilty
+611,2014,Kalimantan,9138345173.0,6.0,Ongoing
+612,2015,Sulawesi,7299503954.0,9.0,Ongoing
+613,2020,Sumatra,3606457179.0,2.0,Ongoing
+614,2004,Sumatra,5234173623.0,7.0,Ongoing
+615,2002,Bali,4812425204.0,6.0,Ongoing
+616,2011,,99925474670.0,,Ongoing
+617,2024,Jakarta,4494066504.0,8.0,Not Guilty
+618,2019,West Java,0.0,0.0,Ongoing
+619,2020,East Java,8909796724.0,5.0,Not Guilty
+620,2003,Kalimntan,9563106856.0,5.0,Not Guilty
+621,2020,East Java,6867829352.0,7.0,Ongoing
+622,2022,Central Java,1420091580.0,9.0,Ongoing
+623,2015,Central Java,5757999253.0,9.0,Not Guilty
+624,2024,East Java,4248844471.0,9.0,Not Guilty
+625,2006,Central Java,3600836221.0,6.0,Ongoing
+626,2012,,,,Ongoing
+627,2020,Sumatra,6139292491.0,3.0,Not Guilty
+628,2009,Central Java,0.0,0.0,Not Guilty
+629,2006,Bali,6758483988.0,7.0,Not Guilty
+630,2013,Central Java,1084651375.0,4.0,Guilty
+631,2004,West Java,3168820788.0,1.0,Not Guilty
+632,2002,Jakarta,2256887560.0,8.0,Guilty
+633,2022,West Java,141212104.0,6.0,Ongoing
+634,2010,West Java,278828065.0,6.0,Ongoing
+635,2010,Bali,108983879.0,2.0,Not Guilty
+636,2017,,99925474670.0,,Ongoing
+637,2014,Jakarta,8944011239.0,2.0,Ongoing
+638,2011,Sulawesi,0.0,0.0,Ongoing
+639,2008,Jakarta,1464792274.0,2.0,Ongoing
+640,2009,Jkarta,5003883891.0,1.0,Guilty
+641,2011,Jakarta,733643733.0,7.0,Guilty
+642,2016,Bali,2748084978.0,8.0,Not Guilty
+643,2005,Central Java,9156553627.0,6.0,Not Guilty
+644,2006,Sulawesi,7675034251.0,4.0,Not Guilty
+645,2013,West Java,4170409090.0,6.0,Ongoing
+646,2012,,,,Ongoing
+647,2007,Kalimantan,5462346263.0,8.0,Guilty
+648,2009,Central Java,0.0,0.0,Guilty
+649,2008,Central Java,1156169863.0,5.0,Not Guilty
+650,2017,West Java,8124844821.0,1.0,Guilty
+651,2001,Bali,13545745.0,6.0,Guilty
+652,2004,East Java,171793532.0,2.0,Guilty
+653,2004,East Java,8193135450.0,4.0,Guilty
+654,2005,Central Java,1935733752.0,6.0,Guilty
+655,2018,Sumatra,2032396460.0,8.0,Not Guilty
+656,2007,,99925474670.0,,Not Guilty
+657,2015,West Java,2038053267.0,6.0,Guilty
+658,2012,East Java,0.0,0.0,Not Guilty
+659,2000,Central Java,7964453488.0,8.0,Ongoing
+660,2021,Balii,4508554672.0,8.0,Guilty
+661,2019,East Java,7875036871.0,1.0,Ongoing
+662,2016,Central Java,6283901286.0,4.0,Not Guilty
+663,2006,Central Java,1884508468.0,4.0,Not Guilty
+664,2024,Jakarta,939492607.0,7.0,Ongoing
+665,2012,Bali,6000196777.0,7.0,Not Guilty
+666,2003,Jakarta,8781578613.0,8.0,Guilty
+667,2003,,,,Ongoing
+668,2005,Jakarta,0.0,0.0,Guilty
+669,2018,Kalimantan,1223185776.0,8.0,Ongoing
+670,2011,Jakarta,3515170896.0,9.0,Not Guilty
+671,2021,Kalimantan,128424038.0,3.0,Ongoing
+672,2006,East Java,2901907711.0,3.0,Ongoing
+673,2009,Sumatra,8783579181.0,4.0,Guilty
+674,2018,Sulawesi,3992857278.0,5.0,Not Guilty
+675,2006,Sulawesi,5005512812.0,1.0,Guilty
+676,2002,Central Java,1675488999.0,7.0,Not Guilty
+677,2012,,99925474670.0,,Guilty
+678,2012,Kalimantan,0.0,0.0,Ongoing
+679,2017,Bali,7394328580.0,5.0,Guilty
+680,2019,Jakrta,8599970541.0,4.0,Not Guilty
+681,2007,Kalimantan,3564051438.0,7.0,Not Guilty
+682,2008,Bali,8765133040.0,5.0,Ongoing
+683,2006,Sumatra,5398460625.0,7.0,Not Guilty
+684,2000,Sulawesi,7153375107.0,1.0,Guilty
+685,2002,Sumatra,7733465312.0,1.0,Ongoing
+686,2012,Sulawesi,4692327460.0,3.0,Not Guilty
+687,2024,,,,Not Guilty
+688,2016,West Java,0.0,0.0,Guilty
+689,2024,Jakarta,2777481993.0,7.0,Guilty
+690,2023,East Java,8110066034.0,2.0,Ongoing
+691,2000,Kalimantan,6452700621.0,4.0,Not Guilty
+692,2005,Central Java,4892415090.0,2.0,Guilty
+693,2020,West Java,4793056520.0,6.0,Ongoing
+694,2005,Jakarta,663806054.0,8.0,Not Guilty
+695,2011,Bali,6572263580.0,4.0,Not Guilty
+696,2012,West Java,7856571330.0,5.0,Ongoing
+697,2012,,99925474670.0,,Ongoing
+698,2014,Sulawesi,0.0,0.0,Guilty
+699,2020,West Java,363462518.0,5.0,Not Guilty
+700,2015,Sulwesi,1716275726.0,9.0,Not Guilty
+701,2021,Kalimantan,8204965796.0,8.0,Not Guilty
+702,2020,Jakarta,3471430781.0,8.0,Ongoing
+703,2010,Kalimantan,928933566.0,8.0,Guilty
+704,2004,West Java,290414437.0,8.0,Not Guilty
+705,2003,Bali,7954597546.0,7.0,Ongoing
+706,2002,Sumatra,6030695395.0,8.0,Not Guilty
+707,2018,,,,Guilty
+708,2019,Kalimantan,0.0,0.0,Not Guilty
+709,2024,Sumatra,6831224413.0,7.0,Guilty
+710,2017,Kalimantan,5946263903.0,1.0,Guilty
+711,2014,Bali,9015593558.0,4.0,Not Guilty
+712,2008,Kalimantan,5885329978.0,4.0,Not Guilty
+713,2016,Jakarta,118769333.0,5.0,Guilty
+714,2013,Central Java,2259347927.0,6.0,Ongoing
+715,2014,Sulawesi,2774434374.0,4.0,Guilty
+716,2000,Sulawesi,4066806894.0,2.0,Not Guilty
+717,2020,,99925474670.0,,Not Guilty
+718,2021,Central Java,0.0,0.0,Ongoing
+719,2021,Kalimantan,435908016.0,8.0,Guilty
+720,2002,Balii,7934403711.0,7.0,Guilty
+721,2015,West Java,2281994183.0,6.0,Guilty
+722,2022,Kalimantan,7911141615.0,2.0,Not Guilty
+723,2024,Sumatra,453084766.0,7.0,Guilty
+724,2010,East Java,4175816689.0,5.0,Ongoing
+725,2011,Kalimantan,982343133.0,6.0,Not Guilty
+726,2009,Central Java,9174144108.0,8.0,Not Guilty
+727,2015,,,,Guilty
+728,2007,Central Java,0.0,0.0,Ongoing
+729,2005,West Java,5994344562.0,7.0,Not Guilty
+730,2011,Kalimantan,5641177925.0,1.0,Not Guilty
+731,2023,Jakarta,9222560444.0,1.0,Guilty
+732,2020,Sumatra,4854518249.0,7.0,Guilty
+733,2007,Kalimantan,3589360313.0,9.0,Ongoing
+734,2003,Sulawesi,1591842916.0,7.0,Guilty
+735,2007,Central Java,5905736379.0,5.0,Ongoing
+736,2017,East Java,2036842082.0,8.0,Not Guilty
+737,2004,,99925474670.0,,Ongoing
+738,2008,Bali,0.0,0.0,Ongoing
+739,2003,West Java,9241984189.0,6.0,Ongoing
+740,2021,Cntral Java,4170305823.0,9.0,Not Guilty
+741,2016,Bali,2053472296.0,2.0,Guilty
+742,2008,Central Java,2287028684.0,3.0,Not Guilty
+743,2000,Sulawesi,5018969004.0,8.0,Guilty
+744,2020,West Java,5356426612.0,1.0,Ongoing
+745,2019,Kalimantan,7847110561.0,7.0,Ongoing
+746,2012,Kalimantan,9351877945.0,7.0,Ongoing
+747,2015,,,,Ongoing
+748,2012,Kalimantan,0.0,0.0,Ongoing
+749,2013,Kalimantan,9300643776.0,8.0,Guilty
+750,2002,Sulawesi,9237419468.0,4.0,Guilty
+751,2005,Jakarta,9481319971.0,5.0,Ongoing
+752,2017,East Java,3155988130.0,2.0,Not Guilty
+753,2018,Bali,3404853463.0,9.0,Not Guilty
+754,2004,Sumatra,6277860690.0,6.0,Ongoing
+755,2014,Jakarta,3139839526.0,3.0,Guilty
+756,2024,Bali,636587079.0,7.0,Not Guilty
+757,2001,,99925474670.0,,Not Guilty
+758,2009,Jakarta,9159469630.0,3.0,Not Guilty
+759,2023,Sulawesi,0.0,0.0,Ongoing
+760,2017,Balii,1970098286.0,7.0,Not Guilty
+761,2012,West Java,3204444469.0,7.0,Not Guilty
+762,2004,East Java,2924824311.0,4.0,Not Guilty
+763,2022,Sumatra,4443977273.0,9.0,Not Guilty
+764,2023,West Java,4077405618.0,8.0,Guilty
+765,2000,Kalimantan,9889936630.0,1.0,Ongoing
+766,2021,Central Java,6406592291.0,1.0,Ongoing
+767,2000,,,,Guilty
+768,2017,West Java,2417828349.0,6.0,Guilty
+769,2014,Sumatra,0.0,0.0,Ongoing
+770,2016,Central Java,7412895760.0,9.0,Not Guilty
+771,2010,Kalimantan,6254383386.0,6.0,Not Guilty
+772,2020,Bali,6200595611.0,4.0,Ongoing
+773,2024,Bali,2047480546.0,7.0,Not Guilty
+774,2021,West Java,256428423.0,8.0,Guilty
+775,2016,Sulawesi,2750630800.0,9.0,Not Guilty
+776,2012,Sulawesi,1282768160.0,6.0,Not Guilty
+777,2000,Central Java,99925474670.0,6.0,Not Guilty
+778,2001,,,,Ongoing
+779,2008,Kalimantan,0.0,0.0,Guilty
+780,2002,Sumatera,4173702638.0,3.0,Not Guilty
+781,2000,East Java,5244061948.0,3.0,Ongoing
+782,2020,Bali,132208917.0,6.0,Not Guilty
+783,2015,Sumatra,6560386505.0,2.0,Guilty
+784,2022,Jakarta,7012723583.0,6.0,Not Guilty
+785,2005,Bali,7063946068.0,6.0,Guilty
+786,2016,Sumatra,5727940840.0,8.0,Not Guilty
+787,2004,Bali,3408601373.0,7.0,Guilty
+788,2004,,,,Not Guilty
+789,2005,Jakarta,0.0,0.0,Guilty
+790,2002,Sulawesi,8600888413.0,6.0,Not Guilty
+791,2020,Sulawesi,8780608642.0,3.0,Not Guilty
+792,2022,East Java,1468944227.0,3.0,Ongoing
+793,2004,Kalimantan,2719311972.0,1.0,Ongoing
+794,2020,Jakarta,297479630.0,5.0,Guilty
+795,2004,West Java,25334476.0,4.0,Not Guilty
+796,2009,Sumatra,3531148027.0,9.0,Guilty
+797,2009,Jakarta,4744379646.0,9.0,Ongoing
+798,2018,,99925474670.0,,Guilty
+799,2016,Kalimantan,0.0,0.0,Guilty
+800,2020,Est Java,4401187358.0,7.0,Ongoing
+801,2013,Bali,5610817162.0,6.0,Not Guilty
+802,2008,Jakarta,2997840415.0,4.0,Guilty
+803,2013,Sumatra,4322118252.0,2.0,Ongoing
+804,2000,Jakarta,434539154.0,1.0,Not Guilty
+805,2018,Central Java,5336342459.0,4.0,Ongoing
+806,2012,Bali,7345866777.0,4.0,Guilty
+807,2012,Sumatra,2865117943.0,1.0,Not Guilty
+808,2003,,,,Not Guilty
+809,2000,Sumatra,0.0,0.0,Ongoing
+810,2016,West Java,5439150198.0,1.0,Ongoing
+811,2007,East Java,8685539509.0,1.0,Ongoing
+812,2001,West Java,2506071846.0,1.0,Not Guilty
+813,2007,Sumatra,3618353510.0,8.0,Not Guilty
+814,2006,Bali,2358853072.0,8.0,Guilty
+815,2001,Jakarta,942774493.0,2.0,Not Guilty
+816,2021,Sulawesi,145608012.0,7.0,Guilty
+817,2021,Jakarta,922820562.0,8.0,Ongoing
+818,2002,,99925474670.0,,Ongoing
+819,2017,Sumatra,0.0,0.0,Not Guilty
+820,2011,Kalimntan,5102746206.0,5.0,Ongoing
+821,2000,Jakarta,3092480758.0,1.0,Ongoing
+822,2021,Kalimantan,6245654153.0,9.0,Not Guilty
+823,2011,Jakarta,7823990819.0,7.0,Guilty
+824,2004,Jakarta,6285278961.0,2.0,Not Guilty
+825,2024,Sulawesi,6715274845.0,6.0,Guilty
+826,2016,East Java,9106131779.0,2.0,Not Guilty
+827,2015,East Java,3938590330.0,1.0,Not Guilty
+828,2014,,,,Ongoing
+829,2022,West Java,0.0,0.0,Not Guilty
+830,2014,Bali,8084094817.0,2.0,Not Guilty
+831,2004,Bali,7834067255.0,5.0,Guilty
+832,2020,Bali,7395737790.0,5.0,Ongoing
+833,2013,Central Java,9757220264.0,7.0,Guilty
+834,2001,East Java,9032235000.0,1.0,Guilty
+835,2010,Sumatra,9402853168.0,8.0,Ongoing
+836,2018,Kalimantan,7658998172.0,3.0,Ongoing
+837,2006,Sulawesi,7367035217.0,4.0,Ongoing
+838,2005,,99925474670.0,,Not Guilty
+839,2001,Sumatra,0.0,0.0,Ongoing
+840,2005,Sulwesi,1462881221.0,5.0,Ongoing
+841,2017,Central Java,4040195563.0,7.0,Ongoing
+842,2001,Sumatra,356260223.0,4.0,Guilty
+843,2017,Bali,3999130843.0,1.0,Guilty
+844,2014,West Java,559044778.0,9.0,Not Guilty
+845,2018,Jakarta,1815127698.0,4.0,Guilty
+846,2001,Kalimantan,1621549829.0,9.0,Not Guilty
+847,2019,East Java,499313616.0,6.0,Guilty
+848,2024,,,,Ongoing
+849,2005,Central Java,0.0,0.0,Guilty
+850,2000,Sulawesi,3996053883.0,2.0,Not Guilty
+851,2023,East Java,4893465326.0,9.0,Guilty
+852,2014,Bali,9682850068.0,1.0,Ongoing
+853,2022,Kalimantan,3761292074.0,9.0,Not Guilty
+854,2009,Sumatra,786151076.0,9.0,Ongoing
+855,2018,Bali,1196888151.0,8.0,Ongoing
+856,2016,Central Java,2904862723.0,8.0,Not Guilty
+857,2004,Bali,5451176200.0,1.0,Ongoing
+858,2003,,99925474670.0,,Ongoing
+859,2009,West Java,0.0,0.0,Guilty
+860,2023,Cntral Java,2142345269.0,7.0,Ongoing
+861,2016,West Java,2045265826.0,1.0,Ongoing
+862,2009,Jakarta,9067579439.0,1.0,Ongoing
+863,2016,West Java,7020798271.0,5.0,Ongoing
+864,2019,Jakarta,7606444834.0,5.0,Not Guilty
+865,2023,Jakarta,799962700.0,8.0,Guilty
+866,2004,West Java,6667087140.0,7.0,Ongoing
+867,2001,Central Java,1786836643.0,8.0,Ongoing
+868,2005,,,,Not Guilty
+869,2020,Sumatra,0.0,0.0,Ongoing
+870,2001,Bali,3239504278.0,2.0,Not Guilty
+871,2012,Bali,155355436.0,6.0,Guilty
+872,2010,Sumatra,5991338440.0,5.0,Guilty
+873,2010,Kalimantan,9130916195.0,3.0,Ongoing
+874,2015,Kalimantan,7461772866.0,6.0,Ongoing
+875,2010,Jakarta,2931000411.0,8.0,Ongoing
+876,2018,Jakarta,6783506048.0,9.0,Not Guilty
+877,2014,Central Java,3537087088.0,1.0,Ongoing
+878,2024,,99925474670.0,,Ongoing
+879,2022,West Java,0.0,0.0,Guilty
+880,2022,Jakrta,2956128393.0,8.0,Ongoing
+881,2015,Bali,5334872140.0,1.0,Guilty
+882,2010,Central Java,3914010277.0,5.0,Ongoing
+883,2021,West Java,7342743952.0,3.0,Guilty
+884,2015,Central Java,4430922978.0,2.0,Ongoing
+885,2007,West Java,3162956738.0,8.0,Guilty
+886,2003,West Java,3892523339.0,3.0,Not Guilty
+887,2007,Sumatra,5441328563.0,7.0,Guilty
+888,2003,Jakarta,7570059648.0,1.0,Guilty
+889,2023,,0.0,0.0,Guilty
+890,2024,Central Java,7977310731.0,3.0,Ongoing
+891,2002,Sulawesi,329070825.0,8.0,Ongoing
+892,2002,Central Java,5875371304.0,6.0,Ongoing
+893,2017,Sumatra,5076531172.0,2.0,Not Guilty
+894,2018,Bali,6166458310.0,6.0,Not Guilty
+895,2018,Sulawesi,1469035736.0,7.0,Guilty
+896,2020,Bali,3175094902.0,5.0,Not Guilty
+897,2004,Kalimantan,5254876230.0,3.0,Guilty
+898,2017,Jakarta,6746888779.0,4.0,Guilty
+899,2009,,99925474670.0,0.0,Guilty
+900,2021,Est Java,2604379670.0,6.0,Not Guilty
+901,2020,Sumatra,1251455031.0,1.0,Ongoing
+902,2005,Bali,4950210170.0,4.0,Not Guilty
+903,2000,West Java,4027009756.0,4.0,Guilty
+904,2004,Central Java,6887085857.0,1.0,Guilty
+905,2008,Jakarta,8847414971.0,9.0,Not Guilty
+906,2011,Sulawesi,6796534851.0,4.0,Guilty
+907,2013,Central Java,8548882087.0,7.0,Guilty
+908,2001,Central Java,1028179126.0,3.0,Not Guilty
+909,2016,,0.0,0.0,Not Guilty
+910,2013,Bali,7064465290.0,8.0,Not Guilty
+911,2012,Jakarta,881387600.0,8.0,Guilty
+912,2008,Central Java,8144580600.0,1.0,Guilty
+913,2024,Jakarta,7934639704.0,2.0,Ongoing
+914,2014,West Java,5649513530.0,8.0,Ongoing
+915,2024,East Java,1187430290.0,1.0,Not Guilty
+916,2021,West Java,2265586695.0,8.0,Ongoing
+917,2014,Jakarta,9294798238.0,8.0,Guilty
+918,2023,Kalimantan,4070031598.0,2.0,Ongoing
+919,2010,,99925474670.0,0.0,Guilty
+920,2015,Jkarta,2964526317.0,6.0,Not Guilty
+921,2016,Bali,7259909465.0,9.0,Not Guilty
+922,2003,Central Java,3997925809.0,8.0,Guilty
+923,2000,Central Java,2136940691.0,8.0,Ongoing
+924,2007,West Java,8782334775.0,7.0,Not Guilty
+925,2016,Sulawesi,6081136864.0,9.0,Not Guilty
+926,2002,East Java,5592689637.0,2.0,Ongoing
+927,2019,Kalimantan,4077229753.0,3.0,Ongoing
+928,2014,Sumatra,4134090861.0,8.0,Guilty
+929,2014,,0.0,0.0,Ongoing
+930,2023,Central Java,8284532861.0,9.0,Ongoing
+931,2021,Bali,7563811837.0,4.0,Ongoing
+932,2013,Sulawesi,6644711565.0,8.0,Guilty
+933,2022,West Java,5070383981.0,3.0,Guilty
+934,2013,West Java,1970663198.0,3.0,Not Guilty
+935,2023,Sumatra,6704904770.0,8.0,Guilty
+936,2001,Bali,8006654021.0,5.0,Not Guilty
+937,2012,East Java,2068311111.0,3.0,Ongoing
+938,2013,Sulawesi,589406480.0,1.0,Not Guilty
+939,2023,,99925474670.0,0.0,Not Guilty
+940,2018,East Jvaa,4763660520.0,9.0,Ongoing
+941,2006,Bali,6540258301.0,5.0,Not Guilty
+942,2002,Bali,942102411.0,2.0,Guilty
+943,2014,Jakarta,3949738833.0,7.0,Guilty
+944,2022,West Java,9347258902.0,2.0,Guilty
+945,2013,Sulawesi,9509873061.0,4.0,Guilty
+946,2010,Bali,4351928849.0,7.0,Not Guilty
+947,2014,Sulawesi,4356913093.0,4.0,Not Guilty
+948,2012,Sumatra,7295190864.0,7.0,Ongoing
+949,2017,,0.0,0.0,Not Guilty
+950,2005,Central Java,8449426913.0,1.0,Not Guilty
+951,2002,West Java,3669855145.0,6.0,Not Guilty
+952,2018,Central Java,9587538077.0,9.0,Ongoing
+953,2014,Sulawesi,1969102826.0,2.0,Guilty
+954,2024,Sulawesi,7969053340.0,3.0,Not Guilty
+955,2022,West Java,6886108779.0,5.0,Ongoing
+956,2004,Sulawesi,3589049316.0,9.0,Ongoing
+957,2009,Central Java,7665029219.0,4.0,Ongoing
+958,2006,Bali,1620140571.0,1.0,Guilty
+959,2024,,99925474670.0,0.0,Not Guilty
+960,2016,Jkarta,8788746772.0,6.0,Ongoing
+961,2006,Sumatra,6506516598.0,5.0,Guilty
+962,2021,Sulawesi,9681087829.0,1.0,Ongoing
+963,2011,Central Java,1056734938.0,4.0,Ongoing
+964,2024,Sulawesi,1730859932.0,6.0,Ongoing
+965,2016,Sulawesi,2901740.0,4.0,Ongoing
+966,2012,East Java,8167378211.0,9.0,Ongoing
+967,2019,Jakarta,661596149.0,5.0,Guilty
+968,2024,Central Java,2069238662.0,8.0,Not Guilty
+969,2003,,0.0,0.0,Not Guilty
+970,2009,Sulawesi,141093021.0,5.0,Not Guilty
+971,2002,Jakarta,8838766754.0,6.0,Not Guilty
+972,2008,Bali,1909534630.0,1.0,Guilty
+973,2012,Central Java,9774403993.0,7.0,Guilty
+974,2017,Bali,6967606864.0,4.0,Guilty
+975,2014,Jakarta,8558474476.0,2.0,Ongoing
+976,2003,Bali,8171043136.0,5.0,Ongoing
+977,2014,West Java,8064180953.0,3.0,Ongoing
+978,2021,East Java,4185896915.0,6.0,Not Guilty
+979,2001,,99925474670.0,0.0,Ongoing
+980,2014,Cntral Java,983235012.0,7.0,Not Guilty
+981,2007,Sumatra,8403330816.0,3.0,Ongoing
+982,2007,East Java,637419349.0,8.0,Not Guilty
+983,2016,Kalimantan,7214612023.0,2.0,Ongoing
+984,2011,Bali,966896104.0,9.0,Ongoing
+985,2018,Central Java,1853765763.0,4.0,Guilty
+986,2009,Bali,3089768255.0,1.0,Ongoing
+987,2008,West Java,9992547467.0,8.0,Ongoing
+988,2004,Jakarta,7902278066.0,7.0,Guilty
+989,2005,,0.0,0.0,Not Guilty
+990,2019,Kalimantan,3278525453.0,5.0,Guilty
+991,2001,Kalimantan,8113709715.0,7.0,Guilty
+992,2023,West Java,1097544135.0,5.0,Not Guilty
+993,2012,West Java,1270998959.0,8.0,Ongoing
+994,2005,Sulawesi,8731850861.0,6.0,Not Guilty
+995,2004,Central Java,1565889562.0,5.0,Ongoing
+996,2024,Bali,1976695232.0,9.0,Ongoing
+997,2000,Sumatra,8999184302.0,2.0,Not Guilty
+998,2020,Kalimantan,3122364131.0,1.0,Guilty
+999,2021,Kalimantan,7619869212.0,8.0,Not Guilty
+1000,2020,,99925474670.0,0.0,Ongoing
+1,2006,,,,Not Guilty
+21,2023,,,,Ongoing
+41,2002,,,,Guilty
+62,2002,Sumatra,4092594747.0,6.0,Guilty
+82,2014,West Java,6944263816.0,9.0,Not Guilty
+102,2006,Bali,8941088219.0,8.0,Ongoing
+123,2011,Sulawesi,4714268725.0,4.0,Not Guilty
+143,2004,Jakarta,3030608055.0,8.0,Not Guilty
+164,2012,West Java,7443744187.0,4.0,Ongoing
+184,2024,Jakarta,389615924.0,9.0,Ongoing
+204,2016,Bali,8382536583.0,9.0,Ongoing
+225,2001,East Java,793787102.0,9.0,Not Guilty
+245,2000,Sulawesi,4953027716.0,9.0,Guilty
+266,2024,Sulawesi,1165569351.0,7.0,Not Guilty
+286,2008,Central Java,5399976917.0,3.0,Guilty
+306,2002,Kalimantan,1386247118.0,2.0,Ongoing
+327,2023,West Java,0.0,0.0,Guilty
+347,2020,Kalimantan,0.0,0.0,Guilty
+367,2013,Jakarta,0.0,0.0,Not Guilty
+388,2001,Central Java,7162215438.0,2.0,Guilty
+408,2003,Kalimantan,4350577328.0,3.0,Not Guilty
+429,2019,Kalimantan,9281772231.0,7.0,Not Guilty
+449,2022,Sulawesi,2848743717.0,9.0,Guilty
+469,2014,Kalimantan,8552822894.0,9.0,Guilty
+490,2013,Central Java,8201768418.0,8.0,Not Guilty
+510,2001,Jakarta,8503106132.0,6.0,Ongoing
+531,2000,Sumatra,4714995081.0,7.0,Ongoing
+551,2016,Sumatra,1342529159.0,5.0,Guilty
+571,2008,East Java,5923876413.0,1.0,Guilty
+592,2016,Bali,2815416531.0,4.0,Ongoing
+612,2015,Sulawesi,7299503954.0,9.0,Ongoing
+633,2022,West Java,141212104.0,6.0,Ongoing
+653,2004,East Java,8193135450.0,4.0,Guilty
+673,2009,Sumatra,8783579181.0,4.0,Guilty
+694,2005,Jakarta,663806054.0,8.0,Not Guilty
+714,2013,Central Java,2259347927.0,6.0,Ongoing
+734,2003,Sulawesi,1591842916.0,7.0,Guilty
+755,2014,Jakarta,3139839526.0,3.0,Guilty
+775,2016,Sulawesi,2750630800.0,9.0,Not Guilty
+796,2009,Sumatra,3531148027.0,9.0,Guilty
+816,2021,Sulawesi,145608012.0,7.0,Guilty
+836,2018,Kalimantan,7658998172.0,3.0,Ongoing
+857,2004,Bali,5451176200.0,1.0,Ongoing
+877,2014,Central Java,3537087088.0,1.0,Ongoing
+898,2017,Jakarta,6746888779.0,4.0,Guilty
+918,2023,Kalimantan,4070031598.0,2.0,Ongoing
+938,2013,Sulawesi,589406480.0,1.0,Not Guilty
+959,2024,,99925474670.0,0.0,Not Guilty
+979,2001,,99925474670.0,0.0,Ongoing
+1000,2020,,99925474670.0,0.0,Ongoing
